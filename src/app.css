@@ -5,8 +5,8 @@
 /* Import font */
 @font-face {
   font-family: "DepartureMono-Regular";
-  src: url("../static/fonts/DepartureMono-Regular.woff") format("woff"),
-    url("../static/fonts/DepartureMono-Regular.otf") format("opentype");
+  src: url("/fonts/DepartureMono-Regular.woff") format("woff"),
+    url("/fonts/DepartureMono-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
